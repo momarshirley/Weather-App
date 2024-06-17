@@ -50,39 +50,6 @@ The Weather App is designed with accessibility in mind, ensuring that it can be 
 
 The Weather App is fully responsive, ensuring a seamless experience across various devices, from mobile phones to desktop computers.
 
-## File Structure
-
-Weather-App/
-├── public/
-│ └── vite.svg
-├── src/
-│ ├── assets/
-│ │ ├── clear.png
-│ │ ├── cloud.png
-│ │ ├── drizzle.png
-│ │ ├── rain.png
-│ │ ├── snow.png
-│ │ ├── humidity.png
-│ │ ├── wind.png
-│ │ └── search.png
-│ ├── components/
-│ │ ├── SearchBar/
-│ │ │ ├── SearchBar.jsx
-│ │ │ └── searchBar.css
-│ │ ├── Weather/
-│ │ │ ├── Weather.jsx
-│ │ │ └── weather.css
-│ ├── services/
-│ │ └── weatherService.js
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
-├── .gitignore
-├── index.html
-├── package.json
-├── README.md
-└── vite.config.js
-
 ## Credits
 
 - Weather data provided by OpenWeatherMap.
